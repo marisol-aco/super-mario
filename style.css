@@ -1,0 +1,11 @@
+canvas {
+  border: 1px dotted;
+}
+button {
+  padding: 10px 20px;
+  background-color: #16b201;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 0 6px rgb(168, 97, 116, 0.8);
